@@ -15,19 +15,14 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
-```
-/*
+
 <img width="863" height="639" alt="Screenshot 2025-11-20 100608 - Copy" src="https://github.com/user-attachments/assets/9de06150-f810-46ab-9d67-1854ca4a9c66" />
  
-*/
-```
 (ii) To find the LU Decomposition of a matrix
-```
-/*
+
 <img width="807" height="647" alt="Screenshot 2025-11-20 100745" src="https://github.com/user-attachments/assets/bfc39748-56ce-4d69-95df-a73fd5446091" />
  
-*/
-```
+
 
 ## Output:
 ![lu decomposition]()
